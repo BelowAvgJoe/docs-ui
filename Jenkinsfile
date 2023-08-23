@@ -10,7 +10,7 @@ def githubApiTokenCredentials = string(credentialsId: github_pat_11AMHGHGA0IMwgK
 // Branch Sources: Single repository & branch
 // Name: master
 // Source Code Management: Git
-// Repository URL: https://github.com/couchbase/docs-ui
+// Repository URL: https://github.com/BelowAvgJoe/docs-ui
 // Credentials: - none -
 // Branch specifier: refs/heads/master
 // Advanced clone behaviors: [ ] Fetch tags, [x] Honor refspec on initial clone, [x] Shallow clone, Shallow clone depth: 5

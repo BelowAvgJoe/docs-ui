@@ -1,11 +1,11 @@
 {
-  "name": "couchbase-docs-ui",
-  "description": "Produces the UI bundle for the Couchbase documentation site",
-  "homepage": "https://docs.couchbase.com",
+  "name": "my_docs_ui",
+  "description": "Produces the UI bundle for my doc site",
+  "homepage": "https://notes.evilguyz.org",
   "license": "MPL-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/couchbase/docs-ui"
+    "url": "https://github.com/BelowAvgJoe/docs-ui"
   },
   "engines": {
     "node": ">= 10.0.0"
@@ -27,7 +27,6 @@
     "browserify": "~16.5",
     "core-js": "~3.6",
     "cssnano": "~4.1",
-    "docsearch.js": "~2.6",
     "eslint": "~7.3",
     "eslint-config-standard": "~14.1",
     "eslint-plugin-import": "~2.21",
