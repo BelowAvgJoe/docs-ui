@@ -1,7 +1,7 @@
 #!/bin/env groovy
 
 def githubApiTokenCredentialsId = 'docs-robot-api-key'
-def githubApiTokenCredentials = string(credentialsId: githubApiTokenCredentialsId, variable: 'GITHUB_API_TOKEN')
+def githubApiTokenCredentials = string(credentialsId: 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, variable: 'GITHUB_API_TOKEN')
 
 // Jenkins job configuration
 // -------------------------
